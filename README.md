@@ -2,6 +2,9 @@
 
 > Turns a string into a JSDoc comment
 
+[![Build Status](https://travis-ci.com/gr2m/string-to-jsdoc-comment.svg?branch=master)](https://travis-ci.com/gr2m/string-to-jsdoc-comment)
+[![Greenkeeper](https://badges.greenkeeper.io/gr2m/string-to-jsdoc-comment.svg)](https://greenkeeper.io/)
+
 ```js
 const { stringToJsdocComment } = require('string-to-jsdoc-comment')
 
