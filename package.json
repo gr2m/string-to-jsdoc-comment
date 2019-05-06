@@ -1,0 +1,18 @@
+{
+  "name": "string-to-jsdoc-comment",
+  "version": "0.0.0-development",
+  "description": "Turns a string into a JSDoc comment",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "jsdoc"
+  ],
+  "author": "Gregor Martynus (https://twitter.com/gr2m)",
+  "license": "ISC",
+  "repository": "https://github.com/gr2m/string-to-jsdoc-comment",
+  "devDependencies": {
+    "semantic-release": "^15.13.3"
+  }
+}
