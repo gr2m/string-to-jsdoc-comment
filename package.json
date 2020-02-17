@@ -13,6 +13,6 @@
   "license": "ISC",
   "repository": "https://github.com/gr2m/string-to-jsdoc-comment",
   "devDependencies": {
-    "semantic-release": "^15.13.3"
+    "semantic-release": "^17.0.4"
   }
 }
