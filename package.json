@@ -11,7 +11,7 @@
   ],
   "author": "Gregor Martynus (https://twitter.com/gr2m)",
   "license": "ISC",
-  "repository": "https://github.com/gr2m/string-to-jsdoc-comment",
+  "repository": "github:gr2m/string-to-jsdoc-comment",
   "devDependencies": {
     "semantic-release": "^15.13.3"
   }
